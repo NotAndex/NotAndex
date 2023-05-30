@@ -19,7 +19,7 @@
 
   <tr> 
     <td align="center"><a><img src="images/svg/python.svg" height="75px" width="75px"/><br>Python</a></td>
-    <td align="center"><a><img src="images/svg/rust.svg" width="75px" /><br>Rust</a></td>
+    <td align="center"><a><img src="images/svg/rust.svg" height="75px" width="75px"/><br>Rust</a></td>
     <td align="center"><a><img src="images/svg/vs_code.svg" height="75px" width="75px"/><br>VS Code</a></td>
     <td align="center"><a><img src="images/svg/github_vio.svg" height="75px" width="75px"/><br>GitHub</a></td>
     <td align="center"><a><img src="images/svg/docker.svg" height="75px" width="75px"/><br>Docker</a></td>
@@ -38,7 +38,7 @@
     <td align="center"><a><img src="images/svg/azure_data_factory.svg" height="75px" width="75px"/><br>ADF</a></td>
     <td align="center"><a><img src="images/svg/fastapi.svg" height="75px" width="75px"/><br>FastAPI</a></td>
     <td align="center"><a><img src="images/svg/flask.svg" height="75px" width="75px"/><br>Flask</a></td>
-    <td align="center"><a><img src="images/png/wave.png" width="75px"/><br>H2O Wave</a></td>
+    <td align="center"><a><img src="images/png/wave.png" width="75px"/><br>Wave</a></td>
     <td align="center"><a><img src="images/svg/azure_app_services.svg" height="75px" width="75px"/><br>Azure ASP</a></td>
   </tr>
 
