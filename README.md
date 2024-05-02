@@ -1,21 +1,20 @@
-# Hey I'm Andreas (Andi) Schreiber
-  
-&nbsp; 📈 &nbsp;I'm a **Data Scientist & Engineer**  
-&nbsp; ⌨️ &nbsp;I'm a **Python Enthusiast** and **Rust Apprentice**  
+# Hey I'm Andi Schreiber
+
+&nbsp; 📈 &nbsp;I'm a **Senior Data Architect**  
+&nbsp; ⌨️ &nbsp;I'm coding in **Rust** and **Python**  
 &nbsp; 💪 &nbsp;I'm very **passionate** about **fitness**  
 &nbsp; 🙏 &nbsp;I'm **grateful** for the **Open-Source Community**
 
 
 ## Projects I'm currently working on:
 
-* Kafka IoT Data Processing Simulation
+* IoT Edge Device Microservice Application with Kubernetes
 * Async Signal Dispatcher with Rust and gRPC (Tonic)
 * Multi-Threaded Data Processing with Rayon and Polars
-* Ephemeral Self-Hosted (Azure) Runners for GitHub Actions
-* Serverless Cloud ETL with Azure
-* Computer Vision with TensorFlow & OpenCV
+* Ephemeral Self-Hosted (Azure & On-Prem Kubernetes) Runners for GitHub Actions
+* Kafka IoT Data Processing Simulation
+* Computer Vision with PyTorch & OpenCV
 * DevOps & MLOps
-* Async Crypto Data Harvest
 
 
 ## Technologies I'm using:
@@ -23,8 +22,8 @@
 <table cellspacing="5" cellpadding="5" width="100%">
 
   <tr> 
-    <td align="center"><a><img src="images/svg/python.svg" height="75px" width="75px"/><br>Python</a></td>
     <td align="center"><a><img src="images/svg/rust.svg" height="75px" width="75px"/><br>Rust</a></td>
+    <td align="center"><a><img src="images/svg/python.svg" height="75px" width="75px"/><br>Python</a></td>
     <td align="center"><a><img src="images/svg/vs_code.svg" height="75px" width="75px"/><br>VS Code</a></td>
     <td align="center"><a><img src="images/svg/github_vio.svg" height="75px" width="75px"/><br>GitHub</a></td>
     <td align="center"><a><img src="images/svg/docker.svg" height="75px" width="75px"/><br>Docker</a></td>
